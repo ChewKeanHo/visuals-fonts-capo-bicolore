@@ -2,22 +2,17 @@
 
 [![banner](/Pictures/banner_1200x630.svg)](#)
 
-Capo Bicolore is a decorative typeface inspired by the Gothic initials
-(*Gotische Initialen*) published by
-[Ludwig Petzendorfer in 1894](https://archive.org/details/schriftenatlasei00petz/page/n159/mode/2up)
-designed by [Michele Casanova](https://codeberg.org/m-casanova). It is designed
-primarily for striking initials.
+Capo Bicolore is a decorative typeface designed by
+[Michele Casanova](https://codeberg.org/m-casanova) via inspiration from the
+[1894 Ludwig Petzendorfer's Gothic Initials (Gotische Initialen)](https://archive.org/details/schriftenatlasei00petz/page/n159/mode/2up).
+It is primarily created for striking initials.
 
-This font also captures the ornate detail and bold structure characteristic of
-the late 19th-century Gothic letterforms. This initial was already included
-within. Each character is a work of art, combining intricate flourishes with
-commanding symmetry.
+This font captures the late 19th-century Gothic letterforms' ornate detail and
+bold structure. Each capitalized character is a work of art, combining intricate
+flourishes with commanding symmetry.
 
 It is perfect for book covers, vintage-themed designs, or elegant branding,
 Capo Bicolore font offers a dramatic and historical touch to any project.
-
-Use Capo Bicolore font to elevate your designs with its timeless beauty and
-Gothic flair.
 
 
 
